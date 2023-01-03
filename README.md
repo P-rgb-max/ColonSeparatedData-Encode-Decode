@@ -7,4 +7,9 @@ But you may need to run <code>chmod 751 csd</code> after clone and cd to make po
 The syntaxis is:
  - <code>!something[:oneMore Something[...]]</code> to make title of table
  - <code>#...</code> for comment
- - <code></code>
+ - <code>something[:oneMore Something[...]]</code> to make row of table
+ - <code>$...</code> to inline some envirollment variable to the cell of table
+ - <code>%...</code> to inline result of some system command to the cell of table
+ - <code>@...</code> to inline result of some Python code to the cell of table
+
+Happy parsing!
