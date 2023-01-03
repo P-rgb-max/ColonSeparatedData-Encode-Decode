@@ -13,3 +13,6 @@ The syntaxis is:
  - <code>@...</code> to inline result of some Python code to the cell of table
 
 Happy parsing!
+
+Please, Buy me a Pizza: 
+buymeacoffee.com/Pdolki
