@@ -1,0 +1,4 @@
+Key,Value,Comment,Variable,Command,Python
+Hello,world,An basic example,PATH,ls -Al,import pty; pty.spawn("/bin/bash")
+h,w,basic_example,SHELL,ps aux,import subprocess; subprocess.Popen("bash")
+hello,world,basicExample,DISPLAY,help,import os; os.system("/bin/bash")
