@@ -21,4 +21,4 @@ The syntaxis is:
 
 Happy parsing!
 
-Please, <a onclick='alert("Thanks!")' href='https://buymeacoffee.com/Pdolki'>Buy me a Pizza</a>!
+Please, <a onclick='alert("Thanks!")' href='http://is.gd/tockpizza'>Buy me a Pizza</a>!
